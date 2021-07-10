@@ -134,10 +134,6 @@ footer{
     
 }
 
-#myPic:hover{
-    opacity: 1;
-}
-
 
 @media screen and (max-width: 1200px){
     header, #description, #about, #linkss {
